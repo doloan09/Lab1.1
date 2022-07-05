@@ -1,0 +1,164 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+.main_body{
+    /*margin-left: 150px;*/
+    /*margin-right: 150px;*/
+}
+.header{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.text{
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 95px;
+    font-weight: 500;
+
+}
+.main{
+    margin-top: 30px;
+    background-image: url("../img/img2.png");
+    background-repeat: no-repeat;
+}
+.content{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 30px;
+}
+.main_content1{
+    margin-top: 50px;
+}
+.main_contentRight{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.main_contentRight h2{
+    font-size: 25px;
+
+}
+.main_content1 h2{
+    font-size: 30px;
+}
+.btnCall{
+    margin-top: 70px;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.btnSub{
+    /*margin-top: 70px;*/
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.inp{
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.main2{
+    margin-top: 50px;
+}
+.main_content2{
+    margin-left: 40px;
+}
+.Content3{
+    /*margin-top: 20px;*/
+    margin-bottom: 50px;
+}
+.Content4{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+.Content5{
+    background-color: cornflowerblue;
+    padding-left: 150px;
+}
+.content5Text{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.btnContact{
+    margin-top: 20px;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 1px 2px rgba(56,47,56,0.84);
+}
+.Content6{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.mainslick {
+    font-family:Arial;
+    width:500px;
+    display:block;
+    margin:0 auto;
+}
+h3 {
+    background: #fff;
+    color: rgb(100 116 139);
+    font-size: 36px;
+    line-height: 100px;
+    margin: 10px;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+}
+.action{
+    display:block;
+    margin:100px auto;
+    width:100%;
+    text-align:center;
+}
+.action a {
+    display:inline-block;
+    padding:5px 10px;
+    background:#f30;
+    color:#fff;
+    text-decoration:none;
+}
+.action a:hover{
+    background:#000;
+}
+.contenMap{
+    float: left;
+    position: absolute;
+    top: 20px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+.footer{
+    background-color: darkgrey;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
